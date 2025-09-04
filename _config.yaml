@@ -1,0 +1,46 @@
+# Site settings
+title: "Asaph's Portfolio"
+description: "Hi, I’m Asaph – a freelance Cloud & Data Engineer and Platform Engineer. I design, build, and optimize cloud infrastructure and data platforms for businesses worldwide. With expertise in AWS, Terraform, Kubernetes, Databricks, and Docker, I help organizations automate workflows, scale efficiently, and turn complex data into actionable insights. I specialize in building end-to-end cloud solutions, from infrastructure deployment to data pipelines and CI/CD automation, with a strong focus on reliability, security, and performance. Here, you’ll find my projects, open-source contributions, and case studies showcasing real-world solutions I’ve built for cloud-native and data-driven environments."
+
+baseurl: "" # leave empty if deploying to username.github.io
+url: "https://asaph.github.io"
+
+# Author
+author:
+  name: "Asaph"
+  email: "asaphl@cloudnx.com"
+  github: "asaphtinoco"
+  linkedin: "https://www.linkedin.com/in/asaphdt/"
+
+# Theme
+theme: minima # or your preferred Jekyll theme
+
+# Social links
+social:
+  - name: "GitHub"
+    url: "https://github.com/yourusername"
+  - name: "LinkedIn"
+    url: "https://www.linkedin.com/in/asaphdt/"
+
+organizations:
+  - name: "Cloudnx Infra"
+    description: "Terraform modules used by Cloudnx"
+    url: "https://github.com/orgs/cloudconsulting-aws/repositories"
+  - name: "Cloudnx Data"
+    description: "Projects Related to Data and Platform Engineering"
+    url: "https://github.com/orgs/cloudnx-data/repositories"
+  - name: "Cloudnx Blockchain"
+    description: "Projects Related to Blockchain and Crypto"
+    url: "https://github.com/orgs/cloudnx-blockchain/repositories"
+
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Optional: include files/folders
+include:
+  - _pages
+  - _posts

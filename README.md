@@ -17,10 +17,6 @@
 | [Index a Custom Token or NFT Collection](https://github.com/asaphtinoco/nft-token-indexer) | Blockchain, Data Indexing | Created a solution to index and analyze transactions and metadata for custom tokens or NFT collections, enabling search and visualization. |
 | [Terraform Modules](https://github.com/orgs/cloudconsulting-aws/repositories) | Cloud Infrastructure, DevOps | Designed and maintained reusable Terraform modules to standardize cloud resource provisioning, improve infrastructure consistency, and accelerate deployment workflows across multiple environments. |
 
-### Articles
-- [Cost Comparison: Databricks Cluster Jobs vs SQL Warehouse for Batch Processing](https://dev.to/asaphtinoco/cost-comparison-databricks-cluster-jobs-vs-sql-warehouse-for-batch-processing-gjg)
-- [How Databricks Cluster Policies Can Enforce Good Behavior and Save You Money](https://dev.to/asaphtinoco/how-databricks-cluster-policies-can-enforce-good-behavior-and-save-you-money-4occ)
-- [Optimizing Data Sync from PostgreSQL to Databricks with Fivetran](https://dev.to/asaphtinoco/optimizing-data-sync-from-postgresql-to-databricks-with-fivetran-5e9g)
 
 ## Work Experience
 
@@ -31,6 +27,7 @@
 - Designed infrastructure with **Terraform (IaC)** for reproducible and secure environments.  
 - Implemented **CI/CD automation** for infrastructure and data pipelines.  
 - Optimized **Databricks ML workloads** in collaboration with Data Science teams.  
+- Designed and provisioned Databricks platforms with Infrastructure as Code, implementing governance and compliance best practices.
 
 ---
 

@@ -1,3 +1,4 @@
 # Site settings
 title: "Asaph Tinoco"
-theme: minima # or your preferred Jekyll theme
+markdown: GFM
+theme: midnight # or your preferred Jekyll theme

@@ -8,6 +8,7 @@
 ### Projects 
 | Project Name | Area | Description |
 |---|---|---|
+| [Terraform Modules](https://github.com/orgs/cloudconsulting-aws/repositories) | Cloud Infrastructure, DevOps | Designed and maintained reusable Terraform modules to standardize cloud resource provisioning, improve infrastructure consistency, and accelerate deployment workflows across multiple environments. |
 | [Databricks Platform with Terraform](https://github.com/cloudconsulting-aws/terraform-databricks-platform) | Cloud Infrastructure, Automation | Automated the deployment and management of Databricks workspaces and resources using Terraform, ensuring reproducibility and scalability of cloud environments. |
 | [Databricks Jobs Module](https://github.com/asaphtinoco/terraform-databricks-jobs) | Cloud Infrastructure, DevOps | Developed reusable Terraform modules to provision and manage Databricks jobs, streamlining CI/CD workflows and operational efficiency. |
 | [Data Lakehouse with dbt + Spark + DuckDB](https://github.com/asaphtinoco/data-lakehouse-dbt-spark-duckdb) | Data Engineering, Analytics | Built a scalable data lakehouse architecture using dbt for transformations, Spark for distributed processing, and DuckDB for fast analytics and prototyping. |
@@ -15,8 +16,16 @@
 | [Real-Time Analytics Pipeline with Kafka](https://github.com/asaphtinoco/realtime-analytics-kafka) | Streaming, Data Engineering | Implemented a real-time data pipeline using Kafka for event ingestion, processing, and analytics, enabling low-latency insights. |
 | [Real-Time Streaming of Blockchain Events](https://github.com/asaphtinoco/blockchain-event-streaming) | Blockchain, Streaming | Engineered a system to capture and stream blockchain events in real time, supporting monitoring and alerting use cases. |
 | [Index a Custom Token or NFT Collection](https://github.com/asaphtinoco/nft-token-indexer) | Blockchain, Data Indexing | Created a solution to index and analyze transactions and metadata for custom tokens or NFT collections, enabling search and visualization. |
-| [Terraform Modules](https://github.com/orgs/cloudconsulting-aws/repositories) | Cloud Infrastructure, DevOps | Designed and maintained reusable Terraform modules to standardize cloud resource provisioning, improve infrastructure consistency, and accelerate deployment workflows across multiple environments. |
 
+
+## Skills
+- **Cloud Platforms:** AWS, Google Cloud  
+- **Infrastructure as Code:** Terraform, CloudFormation  
+- **Containers & Orchestration:** Docker, Kubernetes  
+- **ETL & Data Pipelines:** Apache Airflow, Fivetran, Databricks, Apache Spark  
+- **Programming Languages:** Python, SQL, Shell scripting, Go, PySpark  
+- **CI/CD Tools:** Jenkins, GitLab CI, CircleCI, GitHub Actions, ArgoCD  
+- **Databases:** PostgreSQL, MySQL, Redshift, Databricks  
 
 ## Work Experience
 

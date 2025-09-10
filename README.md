@@ -22,7 +22,7 @@
 - **Cloud Platforms:** AWS, Google Cloud  
 - **Infrastructure as Code:** Terraform, CloudFormation  
 - **Containers & Orchestration:** Docker, Kubernetes  
-- **ETL & Data Pipelines:** Apache Airflow, Fivetran, Databricks, Apache Spark  
+- **ETL & Data Pipelines:** Apache Airflow, Fivetran, Airbyte Databricks, Apache Spark  
 - **Programming Languages:** Python, SQL, Shell scripting, Go, PySpark  
 - **CI/CD Tools:** Jenkins, GitLab CI, CircleCI, GitHub Actions, ArgoCD  
 - **Databases:** PostgreSQL, MySQL, Redshift, Databricks  

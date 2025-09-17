@@ -5,6 +5,8 @@
 - [How Databricks Cluster Policies Can Enforce Good Behavior and Save You Money](https://dev.to/asaphtinoco/how-databricks-cluster-policies-can-enforce-good-behavior-and-save-you-money-4occ)
 - [Optimizing Data Sync from PostgreSQL to Databricks with Fivetran](https://dev.to/asaphtinoco/optimizing-data-sync-from-postgresql-to-databricks-with-fivetran-5e9g)
 
+--- 
+
 ### Projects 
 | Project Name | Area | Description |
 |---|---|---|
@@ -17,18 +19,28 @@
 | [Real-Time Streaming of Blockchain Events](https://github.com/asaphtinoco/blockchain-event-streaming) | Blockchain, Streaming | Engineered a system to capture and stream blockchain events in real time, supporting monitoring and alerting use cases. |
 | [Index a Custom Token or NFT Collection](https://github.com/asaphtinoco/nft-token-indexer) | Blockchain, Data Indexing | Created a solution to index and analyze transactions and metadata for custom tokens or NFT collections, enabling search and visualization. |
 
+--- 
 
 ## Skills
-- **Cloud Platforms:** AWS, Google Cloud  
-- **Infrastructure as Code:** Terraform, CloudFormation  
-- **Containers & Orchestration:** Docker, Kubernetes  
-- **ETL & Data Pipelines:** Apache Airflow, Fivetran, Airbyte Databricks, Apache Spark  
-- **Programming Languages:** Python, SQL, Shell scripting, Go, PySpark  
-- **CI/CD Tools:** Jenkins, GitLab CI, CircleCI, GitHub Actions, ArgoCD  
-- **Databases:** PostgreSQL, MySQL, Redshift, Databricks  
+- **Data Platforms & Pipelines:** Databricks (Delta Lake, PySpark, Lakehouse), Apache Spark, Apache Airflow, dbt, Airbyte, Fivetran  
+- **Cloud Platforms:** AWS (Certified), Google Cloud  
+- **Infrastructure as Code:** Terraform (Certified), CloudFormation  
+- **Containers & Orchestration:** Docker, Kubernetes, ArgoCD  
+- **CI/CD & DevOps:** GitLab CI, Jenkins, GitHub Actions, CircleCI  
+- **Data Warehouses:** Redshift, BigQuery  
+- **Programming Languages:** Python, SQL, Shell scripting, Go  
+ 
 
+---
+## Certifications
+
+- AWS Certified Solutions Architect – Associate 
+- HashiCorp Certified: Terraform Associate (003)
+- Academy Accreditation - Databricks Fundamentals
+- Databricks Certified Data Engineer Professional
+
+---
 ## Work Experience
-
 ### Zepz — Senior Platform & Data Engineer (Freelance)  
 *Remote | Apr 2023 – Apr 2025*  
 
